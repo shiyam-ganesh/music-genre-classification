@@ -3,6 +3,5 @@ streamlit
 tensorflow
 numpy
 pandas
-math
 librosa
 io
