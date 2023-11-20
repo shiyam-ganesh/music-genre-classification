@@ -1,5 +1,5 @@
 # music-genre-classification
-Music Genre Classification using Audio
+Music Genre Classification using Audio: 
 Check it out at: https://music-genre-classification-shiyam.streamlit.app/
 
 We have used the GTZAN dataset.
